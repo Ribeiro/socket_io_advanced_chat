@@ -1,0 +1,12 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "Advanced Chat using socket.io",
+  "main": "app.js",
+  "author": "Geovanny Ribeiro",
+  "private": true,
+  "dependencies": {
+    "express": "~4.6.1",
+    "socket.io": "~1.0.6"
+  }
+}
